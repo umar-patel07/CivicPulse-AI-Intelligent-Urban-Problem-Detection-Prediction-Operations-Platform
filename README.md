@@ -152,4 +152,9 @@ npm start
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+Copyright © 2026 Umar Patel. All rights reserved.
+
+This project is proprietary. Unauthorized copying,
+modification, distribution, or use of this project,
+in whole or in part, is strictly prohibited without
+explicit permission from the author.
