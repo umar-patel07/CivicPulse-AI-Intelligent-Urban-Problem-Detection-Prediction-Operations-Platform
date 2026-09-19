@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "CivicPulse AI is a next-generation urban operations platform combining geospatial analytics, ML time-series forecasting, computer vision pavement damage inspection, and Gemini tool-calling intelligence. It connects citizens reporting hazards with dispatchers, urban data analysts, and city directors to optimize municipal infrastructure resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
